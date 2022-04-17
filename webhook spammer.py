@@ -10,6 +10,7 @@ banner = """
 //   ) )   //         ((____     ((____     / /      //        ((____
 """
 print(Fore.RED + banner)
+print(Fore.RED + '                                         Made by Maxim3sama#8381')
 
 input()
 
